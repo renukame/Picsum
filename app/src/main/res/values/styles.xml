@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Picsum.Detail.TextView" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textSize">@dimen/textview_detail_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.Picsum.List.TextView" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textSize">@dimen/textview_list_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
